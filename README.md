@@ -16,7 +16,7 @@ npm install
 3.Create a .env file with required variables:
 
 
-GEMINI_API_KEY=AIzaSyCjWUReQU0ty1F5rMUv1NcgUqJS7QZc-og
+GEMINI_API_KEY=USE_YOUR_OWN_API_KEY
 
 4.Run server
 
