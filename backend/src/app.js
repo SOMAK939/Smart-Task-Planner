@@ -10,7 +10,7 @@ const app = express();
 
 // ✅ Initialize middleware in correct order
 app.use(cors({
-  origin: "http://localhost:5500",   // your frontend
+  origin: "*",   // your frontend
   methods: ["GET", "POST", "PUT", "DELETE", "OPTIONS"],
   allowedHeaders: ["Content-Type", "Authorization"]
 }));
