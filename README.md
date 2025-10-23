@@ -15,9 +15,9 @@ npm install
 
 3.Create a .env file with required variables:
 
-GEMINI_API_KEY=AIzaSyCjWUReQU0ty1F5rMUv1NcgUqJS7QZc-og
+GEMINI_API_KEY=USE_YOUR_OWN_KEY
 
-MONGO_URI=mongodb+srv://somakbhuti_db_user:1234@cluster0.mczv2a0.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0
+MONGO_URI=USE_YOUR_ATLAS_STRING 
 
 
 4.Run server
