@@ -15,8 +15,10 @@ npm install
 
 3.Create a .env file with required variables:
 
+GEMINI_API_KEY=USE_YOUR_OWN_KEY
 
-GEMINI_API_KEY=USE_YOUR_OWN_API_KEY
+MONGO_URI=USE_YOUR_ATLAS_STRING 
+
 
 4.Run server
 
