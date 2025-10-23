@@ -27,3 +27,8 @@ npm run dev
 5.Run frontend
 
 Right click on the index.html page and click on "Open with Live Server"
+
+###NOTE: The model used here might get overloaded. After clicking on 'Generate Plan' it might show the following error:
+LLM error: GoogleGenerativeAIFetchError: [GoogleGenerativeAI Error]: Error fetching from https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent: [503 Service Unavailable] The model is overloaded. Please try again later.
+
+Click the button 'Generate Plan' again .It should work.
